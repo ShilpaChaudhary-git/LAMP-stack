@@ -1,0 +1,7 @@
+---
+mysql_root_password: "password"
+app_user: "ec2-user"
+http_host: "shilpa_domain"
+http_conf: "shilpa_domain.conf"
+http_port: "80"
+disable_default: true
